@@ -1,7 +1,7 @@
 ---
-title: "ect"
+title: "Ect"
 layout: archive
-permalink: categories/ect
+permalink: categories/Ect
 author_profile: true
 sidebar_main: true
 ---
