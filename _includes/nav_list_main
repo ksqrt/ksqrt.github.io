@@ -58,6 +58,9 @@
                     {% if category[0] == "Ect" %}
                         <li><a href="/categories/Ect" class=""> ect ({{category[1].size}})</a></li>
                     {% endif %}
+                    {% if category[1] == "github" %}
+                        <li><a href="/categories/github" class=""> Github ({{category[1].size}})</a></li>
+                    {% endif %}
                 {% endfor %}
             </ul>
            
