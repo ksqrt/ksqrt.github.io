@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[DL] x = y 함수식 만들기 2 (근데 이제 잘못된 데이터를 추가한)"
+title: "[DL] Dimension"
 categories:
   - ai
 
