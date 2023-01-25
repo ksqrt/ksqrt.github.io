@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "[DL] 패딩(padding)
-"
+title: "[DL] 패딩(padding)"
 categories:
   - ai
 
