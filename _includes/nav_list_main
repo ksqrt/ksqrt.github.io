@@ -34,6 +34,12 @@
                         <li><a href="/categories/Blog" class=""> Blog ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
+                {% comment %} {% endcomment %}
+                {% for category in site.categories %}
+                    {% if category[0] == "Docker" %}
+                    <li><a href="/categories/Docker" class=""> Docker ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
             </ul>
 
         <span class="nav__sub-title">3. Ai </span>
