@@ -2,7 +2,7 @@
 layout: single
 title: "[DL] 이미지보강(ImageDataGenerator)"
 categories:
-  - ai
+  - Docker
 
 toc: ture
 toc_sticky: true
