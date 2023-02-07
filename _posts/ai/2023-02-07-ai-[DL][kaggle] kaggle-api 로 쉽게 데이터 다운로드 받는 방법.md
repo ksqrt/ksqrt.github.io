@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[DL] 이미지보강(ImageDataGenerator)"
+title: "[DL][kaggle] kaggle-api 로 쉽게 데이터 다운로드 받는 방법"
 categories:
   - ai
 
@@ -9,8 +9,6 @@ toc_sticky: true
 ---
 
 <!-- 위는 머릿말임 아래부터 포스트 본문 -->
-
-# [DL][kaggle] kaggle-api 로 쉽게 데이터 다운로드 받는 방법
 
 ## 1️⃣ Kaggle -api
 
