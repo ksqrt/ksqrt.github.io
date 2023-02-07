@@ -50,6 +50,12 @@ Make sure it's located in /root/.kaggle. Or use the environment method.
 
 이는 /root/.kaggle 경로에 kaggle.json 파일을 위치 시키면 해결된다.
 
+파일을 위치시킨이후 권한을 변환하면 더좋다 (600 = 나에게만 읽기 쓰기 권한)
+
+```
+chmod 600 /root/.kaggle/kaggle.json
+```
+
 kaggle.json 파일을 다운로드 받는 방법은 아래 링크를 참조한다.
 
 [kaggle API로 데이터 받는 법, OSError: Could not find kaggle.json. 해결](https://freshrimpsushi.github.io/posts/how-to-fix-oserror-could-not-find-kaggle.json/)
