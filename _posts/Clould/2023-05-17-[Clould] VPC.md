@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "[Clould] S3에 이미지와 영상 올리고 조회해보기"
-excerpt: "S3 을 이미지 서버로 테스트하기 "
+title: "[Clould] VPC"
+excerpt: " 클라우드 첫걸음 VPC "
 categories:
   - Clould
 
