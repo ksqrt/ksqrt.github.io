@@ -33,6 +33,43 @@ toc_sticky: true
 
 하지만 완전히 똑같은 기능의 유튜브 가 아닌 기존 유튜브에 부족한 부분의 여러가지 기능을 추가하거나 변경 하고자 노력 하였습니다.
 
+## 팀원
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/dd1761">
+        <img src="https://avatars.githubusercontent.com/u/97274814?v=4" width="100px" alt="kimdongbeen" />
+      </a><br />
+      <sub><b>팀장: 김동빈</b></sub>
+    </td>
+    <td align="center">
+       <a href="https://github.com/ksqrt">
+         <img src="https://avatars.githubusercontent.com/u/87400924?v=4" width="100px" alt="hyunjuchoi" />
+       </a><br />
+      <sub><b>팀원: 강성욱</b></sub>
+    </td>
+    <td align="center">
+       <a href="https://github.com/kwonyongjun9978">
+         <img src="https://avatars.githubusercontent.com/u/102017821?v=4" width="100px" alt="kwonyongjun" />
+       </a><br />
+      <sub><b>팀원: 권용준</b></sub>
+    </td>
+    <td align="center">
+       <a href="https://github.com/jihyunah">
+         <img src="https://avatars.githubusercontent.com/u/121652350?v=4" width="100px" alt="dodamchoi" />
+       </a><br />
+      <sub><b>팀원: 이지현</b></sub>
+    </td>
+    <td align="center">
+       <a href="https://github.com/gkdltjdrms">
+         <img src="https://avatars.githubusercontent.com/u/121652277?v=4" width="100px" alt="sohunlee" />
+       </a><br />
+      <sub><b>팀원: 송성근</b></sub>
+    </td>
+  </tr>
+</table>
+
 ## 시연영상
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uop4cV5By24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -41,42 +78,25 @@ toc_sticky: true
 
 2023.04.17 ~ 2023.05.01
 
-## 피그마
-
-각 페이지별 기능과 특성을 정리해놓은 피그마입니다.
-
-[https://www.figma.com/file/I4QHHICr4rTxX3Mioc4Z4c/minProject?type=design&node-id=0-1&t=oqo07FQJ0Vughpze-0](https://www.figma.com/file/I4QHHICr4rTxX3Mioc4Z4c/minProject?type=design&node-id=0-1&t=oqo07FQJ0Vughpze-0)
-
 ## 기술스택
 
-### 프론트엔드
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-wi-aeG86j5gk6v_fNp-IJ8vyxTHuOOzlP3BqPeJvbat_oZSBRl2MUtaZEDYTAbh-o7p5LDbls8CcXvO7G8hWDbTbaLHw=w2560-h1422" alt="프로젝트 구조" width="500">
 
-- HTML/CSS
-- JavaScript
-- BootStrap
-
-### 백앤드
-
-- JQuery
-- Ajax
-- Mybatis
-- JDBC
-- MySQL
-- Docker
-
-### 협업도구
-
-- git
-- github
-- Notion
-- Discord
 
 ### 개발보조도구
 
-- ChatGPT
 - Pigma
 
-## 구현한 사항
+### 내가 구현한 사항
+
+0. 깃허브 인사이트
+
+   52/135 (나의 Commit/프로젝트 전체 Commit)
+
+
+   <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-xTFrlDGSiK1OA5fateIA_LPLnWXtvHvAiSYrDPH8Mii-HSVkgKmIE8Jh-Ox46MT1OR9LeoTOcw9bG_-uN2YHhy4r8Qug=w2560-h1413
+" alt="프로젝트 구조" width="500">
+
 
 1. DB 설계
 
